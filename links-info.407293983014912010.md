@@ -15,12 +15,12 @@ https://discord.gg/xmWd3yy
 - バイナリ版
     - BitZeny Core Wallet (BitZenyCoreDev団体管理)  
       <https://github.com/BitzenyCoreDevelopers/bitzeny/releases>
-    - Electrum for BitZeny (Yちゃん氏管理)
+    - Electrum for BitZeny (Yちゃん氏管理)  
       <https://zny.electrum-jp.net/>
 - オンライン版
     - BitZeny WALLET (zenywallet氏管理)  
       <https://bitzeny.jp/>
-    - もにゃ (monya-wallet団体管理)
+    - もにゃ (monya-wallet団体管理)  
       <https://monya-wallet.github.io/>
 
 [ブロックチェーン エクスプローラー]  
