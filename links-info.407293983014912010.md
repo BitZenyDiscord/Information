@@ -29,7 +29,6 @@ https://discord.gg/xmWd3yy
 - <http://namuyan.dip.jp/MultiLightBlockExplorer/index.php?page=selectcoin&coin=zeny>  
 - <https://zeny.insight.monaco-ex.org/>  
 - <https://zny.blockbook.ovh/>
-- <https://zeny.blockbook.zenypota.net/>
 
 [コミュニティ]  
 BitZenyフォーラム  
