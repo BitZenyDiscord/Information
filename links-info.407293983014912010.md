@@ -30,6 +30,16 @@ https://discord.gg/xmWd3yy
 - <https://zeny.insight.monaco-ex.org/>  
 - <https://zny.blockbook.ovh/>
 
+[マイニングプール一覧]  
+- BitZeny Mining Pool Information  
+<https://lab.ukkey3.space/BitZenyMiningPoolInformation.php>  
+- Pools List  
+<https://pools.currency.ovh/BitZeny>  
+- BitZeny Mining Pools(ZNY) Yescrypt  
+<https://miningpoolstats.stream/bitzeny>  
+- Mining pools for BitZeny (ZNY)[YescryptR8] - Pool Explorer | Mining Pools Monitor  
+<https://poolexplorer.com/coin/5324>
+
 [コミュニティ]  
 BitZenyフォーラム  
 <https://bitzeny.info/>  
