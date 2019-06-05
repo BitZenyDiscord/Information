@@ -26,7 +26,6 @@ https://discord.gg/xmWd3yy
 [ブロックチェーン エクスプローラー]  
 - <https://insight.bitzeny.jp/>  
 - <https://zenyinsight.tomotomo9696.xyz/>  
-- <http://namuyan.dip.jp/MultiLightBlockExplorer/index.php?page=selectcoin&coin=zeny>  
 - <https://zeny.insight.monaco-ex.org/>  
 - <https://zny.blockbook.ovh/>
 
